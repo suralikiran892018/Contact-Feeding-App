@@ -35,7 +35,7 @@ GitHub Pages
 Heroku
 To deploy the app on [service-name], follow the instructions below:
 
-[Deployment step 1]
+**https://contacts-saving-app.netlify.app/**
 [Deployment step 2]
 [Deployment step 3]
 Development
