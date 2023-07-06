@@ -17,7 +17,7 @@ World wide data of cases: https://disease.sh/v3/covid-19/all
 Country-specific data of cases: https://disease.sh/v3/covid-19/countries
 Graph data for cases with date: https://disease.sh/v3/covid-19/historical/all?lastdays=all
 Installation
-Clone the repository: git clone [repository-url]
+Clone the repository: git clone [https://gitlab.com/suralikiran892018/contacts_saving_app.git]
 Install dependencies: npm install
 Run the application: npm start
 Technologies Used
@@ -33,11 +33,11 @@ The app can be deployed on free services like:
 Vercel
 GitHub Pages
 Heroku
-To deploy the app on [service-name], follow the instructions below:
+To deploy the app on [netlify], follow the instructions below:
+- Please the Below Link
 
 **https://contacts-saving-app.netlify.app/**
-[Deployment step 2]
-[Deployment step 3]
+
 Development
 To start developing and contributing to the project, follow the steps below:
 
@@ -49,8 +49,8 @@ Make your changes and commit them: git commit -am 'Add some feature'
 Push the changes to your forked repository: git push origin [branch-name]
 Create a pull request on [GitHub/GitLab] with a detailed description of the changes made
 License
-This project is licensed under the [License Name] - see the LICENSE.md file for details.
+This project is licensed under the [kiran kumar] - see the LICENSE.md file for details.
 
 
 Contact
-For any inquiries or issues, please contact [Your Name] at [suralikiran892018@gmail.com].
+For any inquiries or issues, please contact at [suralikiran892018@gmail.com].
